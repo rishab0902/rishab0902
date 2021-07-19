@@ -25,6 +25,10 @@ or <a href="rishab.davksd@gmail.com"><b>email</b></a> me.
 
 </br>
 </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishab0902&layout=compact)](https://github.com/rishab0902/github-readme-stats)
+
+</br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
